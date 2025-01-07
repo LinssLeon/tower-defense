@@ -1,2 +1,2 @@
 # tower-defense
-Small indie game, probably tow(o)erc defense
+Small indie game, probably tow(o)er defense
